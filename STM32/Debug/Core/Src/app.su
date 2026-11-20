@@ -1,0 +1,15 @@
+app.c:44:13:log_msg	80	static
+app.c:57:13:Task_D1	8	static
+app.c:58:13:Task_D2	8	static
+app.c:59:13:Task_D3	8	static
+app.c:60:13:Task_D4	8	static
+app.c:61:13:Task_D5	8	static
+app.c:69:13:OneShot_D6_Off	8	static
+app.c:75:13:Task_D6_Trigger	8	static
+app.c:89:13:Task_Tick10	8	static
+app.c:92:13:Task_StopTick10	8	static
+app.c:99:13:OneShot_A	8	static
+app.c:100:13:OneShot_B	8	static
+app.c:101:13:OneShot_C	8	static
+app.c:106:6:HAL_TIM_PeriodElapsedCallback	16	static
+app.c:116:6:App_Init	8	static
